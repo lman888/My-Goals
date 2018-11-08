@@ -1,0 +1,34 @@
+Liam Eric Whitehouse's list of Goals to achieve.
+
+#Life Goals
+1. Become a Games Developer.
+2. Learn to build Game Engines.
+3. Multi-Thread Game Engines.
+4. Build Game Engines in America at Id Software.
+5. Live in Japan building Game Engines.
+6. Purchase and drive a 1969 Ford Mustang FastBack.
+
+#Goals i need to achieve to complete the Life Goals
+1. Get into GDML next year and start an Indie Studio (2019)
+2. The game created in GDML, make it PAX ready and showcase it at PAX
+3. Find a job while doing GDML or finishing GDML.
+4. Create a Game Engine and understand it properly
+5. Create a MultiThreaded application and understand it properly
+6. MultiThread the Game Engine i created
+7. Practice Programming more at home
+8. Build small Unity Games to improve my use of the Unity Editor
+
+#Regular Goals
+1. Go to gym 3 times a week
+2. Work more to gain money to afford the costs i need
+3. Always be humble each day and take criticm
+4. Buy my mate coffee instead of him buying me coffee
+5. Each day be a better me, improve in some way shape or form, whether it be muscle or programming knowledge, i need to be the me i see in 10 years time
+6. Be more reliable each day
+7. Fail over and over again so i learn to not make that mistake again
+
+
+
+Update this goals list when i gain a new goal
+
+Re-read this each day so i know why i do what i do and what it achieves for me.
